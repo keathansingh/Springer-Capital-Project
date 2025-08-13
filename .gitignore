@@ -1,0 +1,12 @@
+__pycache__
+
+venv
+
+.env
+
+# Migrations
+*/migrations/
+!*/migrations/__init__.py
+
+# DB
+db.sqlite3
